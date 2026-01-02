@@ -1,0 +1,620 @@
+,year,title,authors,country,location,study_area,rewilding_area,area_certain,area_all,m_e,keywords,interest,control,sites,duration,methods_named,methods,response_variables_named,response_variables,notes
+2,2022,Monitoring rewilding from space: The Knepp estate as a case study,"to Bühne, H.S., Ross, B., Sandom, C.J. Pettorelli, N",UK,"Knepp Estate West Sussex, England, and lies 50.9834° N, 0.3547° W",1400,NA,1400,1400,M,"Rewilding 
+Satellite remote sensing 
+Land cover
+Environmental monitoring",Plants,YES,1,20,"Satellite remote sensing
+Satellite imagery
+Land cover classification
+Primary productivity analyses",Remote sensing,"Land cover class accuracy
+% area cover
+% area cover change
+Normalized Difference Vegetation Index (NDVI)
+Change in vegetation dynamic parameters",Habitat structure,"Presenting satellite remote sensing as the option to monitor
+Control - inclusion of non-rewilded neighbouring area"
+5,2022,"Expert-based assessment of rewilding indicates progress at site-level, yet challenges for upscaling","Segar, J., Pereira, H.M., Filgueiras, R., Karamanlidis, A.A., Saavedra, D. Fernández, N.","Italy
+Portugal
+Poland-Germany
+Romania
+Bulgaria
+Ukraine-Romania-Moldova
+Croatia","Central Apennines
+Greater Côa Valley
+Oder Delta
+southern Carpathians
+Rhodope Mountains
+Danube Delta
+Velebit Mountains",38520,NA,NA,38520,ME,"Delphi technique
+Expert elicitation
+Monitoring
+Restoration
+Rewilding
+Rewilding interventions","Ecosystem
+Social",NO,7,1,"Delphi technique
+Questionnaires
+Interviews
+Workshops",Consultation,"Rewilding score
+Rewilding progress and threat factors","Ecosystem
+Social","Delphi technique
+Range of baseline years (between 2011 and 2014-2020), but study conducted in 1 year
+Areas:
+Central Apennines 7550 ha
+Greater Côa Valley 4470 ha
+Oder Delta 7830 ha
+southern Carpathians 1380 ha
+Rhodope Mountains 1350 ha
+Danube Delta 6390 ha
+Velebit Mountains 9550 ha
+No control, but multiple sites used to compare trajectories.
+Classified as ME - monitoring by going before and after, E because linked to “improved” or “declined” rewilding scores"
+7,2021,Rewilding and gazetting the Ibera National Park: Using an asset approach to evaluate project success,"Pettersson, H.L. de Carvalho, S.H.C.",Argentina,Iberá Natural Reserve,160000,NA,NA,160000,E,"Asset-based community management
+Conservation land trust
+Iberá
+Keystone species
+Protected areas
+Rewilding
+Social–ecological systems",Social,NO,1,1,Interviews,Consultation,Local stakeholder perceptions,Social,Use of an existing framework to engage stakeholders and determine value added by rewilding
+8,2018,Measuring rewilding progress,"Torres, A., Fernández, N., Zu Ermgassen, S., Helmer, W., Revilla, E., Saavedra, D., Perino, A., Mimet, A., Rey-Benayas, J.M., Selva, N. Schepers, F.","Netherlands
+Switzerland
+Argentina","Millingerwaard
+Swiss National Park
+Iberá",1677000,NA,NA,1677000,ME,"Biodiversity
+Ecological Processes
+Ecosystem integrity
+Ecosystem management
+Monitoring
+Restoration",Ecosystem,NO,3,1,"Questionnaires
+Interviews",Consultation,"Ecological integrity
+Human forcing",Ecosystem,"Presenting a conceptual framework and rewilding score
+No control, but 3 sites used to compare trajectories.
+3 = number of case studies, as is number of sampling units.
+Areas:
+Netherlands Millingerwaard 700 ha
+Swill National Park 17, 000 ha
+Iberá 150, 000 ha
+Time: 
+Netherlands Millingerwaard 1990 - 2017 (28 years)
+Swill National Park 1914 - 2017 (103)
+Iberá 1999 - 2017 (19)"
+9,2022,Long-term effects of rewilding on species composition: 22 years of raptor monitoring in the Chernobyl Exclusion Zone,"Dombrovski, V.C., Zhurauliou, D.V. Ashton‐Butt, A.",Belarus,Belarusian Chernobyl Exclusion Zone (CEZ),14700,216200,14700,14700,M,"Biodiversity
+Birds
+Conservation
+Endangered species
+Passive restoration
+Predators",Birds,NO,1,22,"Breeding bird surveys 
+Satellite data
+Analysis of previous raptor abundance data","Fieldwork
+Remote sensing","Raptor composition
+Density of breeding raptors
+Change in raptor breeding pair abundance
+Land cover change Land cover change
+Raptor community change
+Raptor composition by habitat type
+Correlation plot of raptor species","Distribution
+Habitat structure",Case study for passive rewilding
+10,2021,Enhancing monitoring of rewilding progress through wildlife tracking and remote sensing,"Mata, J.C., Buitenwerf, R. Svenning, J.C.",Argentina,"Rinco ́n del Socorro (28.6598 ̊ S, 57.4344 ̊ W), Corrientes, Argentina",12000,NA,12000,12000,M,NA,Mammals,NO,1,5,"GPS wildlife tracking
+Satellite data","Remote sensing
+Wildlife tracking","Habitat classification
+Predicted habitat selection
+Realized and potential occupancy of reintroduced species
+Area and proportion of realized and potential occupancy
+Realized and potential faunal complexity score
+Ecological integrity score","Habitat structure
+Behaviour
+Distribution
+Ecosystem",
+17,2023,Rewilding giant tortoises engineers plant communities at local to landscape scales,"Tapia Aguilera, W. Gibbs, J.P.",Galapagos Islands ,"Espanola Island (1.38°S, 89.68°W)",1650,NA,1650,1650,M,"Trophic rewilding
+Ecosystem engineer
+Restoration
+Cactus
+Chelonoidis hoodensis
+Espanola Island
+Galapagos
+Giant tortoise
+Plant community","Plants
+Reptiles",YES,1,15,"Herbivore exclosure experiment
+Vegetation measures
+Censuses Satellite imagery","Remote sensing
+Experiment
+Fieldwork","Tortoise feces
+Cactus cladodes
+Cactus fruits
+Grass cover
+Forb cover
+Woody plant regeneration ","Distribution
+Habitat structure","Time: 8 years plant community composition
+15 years woody plant cover"
+19,2023,Long-term monitoring of mammal communities in the Peneda-Gerês National Park using camera-trap data,"Zuleger, A.M., Perino, A., Wolf, F., Wheeler, H.C. Pereira, H.M.",Portugal,"Castro Laboreiro 
+Lamas de Mouro",1600,NA,1600,1600,M,"Long-term monitoring
+Occupancy
+Density
+Camera traps
+Mammal
+Portugal",Mammals,NO,1,6,Camera traps,Wildlife tracking,"Detection probability Occupancy probability Density Occupancy vs density",Distribution,
+27,2019,Using lidar to assess the development of structural diversity in forests undergoing passive rewilding in temperate Northern Europe,"Thers, H., Bøcher, P.K. Svenning, J.C.",Denmark,"Vorsø, an island in Horsens Fjord in eastern Jutland + 3 managed forests",73.12,NA,73.12,73.12,E,"Disturbances
+Lidar
+Natural regeneration
+Passive rewilding
+Vegetation structure",Plants,YES,4,1,Lidar,Remote sensing,PCA values for lidar-derived cell values,Habitat structure,"Control = comparison of spontaneously regenerated vs planted and managed forests
+Area:
+Vorso 47.27 ha
+Tran 4.51 ha
+Floj 0.92 ha
+Sten 20.42 ha
+Time:
+Space for time. Differences in regeneration time 28- to 78-year old spontaneously regenerated forests."
+43,2018,From exploration to establishment: Activity changes of the first collared peccary (Pecan tajacu) group reintroduced in South America,"Hurtado, C.M., Beck, H. Thebpanya, P.",Argentina,"Ibera Nature Reserve (28°320 S, 57°100 W)",NA,NA,NA,NA,M,"Monitoring
+Activity patterns
+Post-release
+Reintroduction biology
+Activity budget",Mammals,NO,1,2,"Radio telemetry Camera traps",Wildlife tracking,"% Behaviours
+Daily activity pattern",Behaviour,
+45,2024,Long-term vegetation responses to climate depend on the distinctive roles of rewilding and traditional grazing systems,"Rincon-Madroñero, M., Sánchez-Zapata, J.A., Barber, X. Barbosa, J.M.",Spain,"Sierras de Cazorla, Segura, and Las Villas Natural Park (Cazorla Natural Park)",NA,214300,NA,214300,E,"Shrub encroachment Transhumance Bayesian models NDVI Ecological succession Cultural landscapes",Plants,YES,2,30,"Satellite imagery
+NVDI time series
+Climate data",Remote sensing,"NDVI
+Trend in NDVI",Habitat structure,"Control = comparison of sites where livestock can and cannot access 29 years = period covered for NDVI values extracted.
+Area - whole area = 2143 ­ km2, actual study on two smaller areas within but area not described"
+54,2019,Implications of Spatial Habitat Diversity on Diet Selection of European Bison and Przewalski's Horses in a Rewilding Area,"Zielke, L., Wrage-Mönnig, N., Müller, J. Neumann, C.",Germany,"Doeberitzer Heide close to Berlin (52◦30′43.7′′ N, 13◦01′43.5′′ E",1860,NA,1860,1860,M,"Diet European bison Przewalski’s horse Habitat classification Satellite imagery","Plants
+Mammals",NO,1,2,"Satellite imagery Direct observation
+Habitat categorization (remote sensing)","Remote sensing
+Fieldwork","Habitat classification
+Habitat distribution
+Spatial distribution of tree species
+Spatial distribution of openland habitat Food selection
+% habitat use for food selection
+Potential habitat preferences","Habitat structure
+Distribution
+Behaviour",
+55,2018,Rewilding cultural landscape potentially puts both avian diversity and endemism at risk: A Tibetan Plateau case study,"Li, L., Tietze, D.T., Fritz, A., Lü, Z., Bürgi, M. Storch, I.",China,"Nyanpo Yutse Mountain lies in the southeast of the Sanjiangyuan Nature Reserve (33°–34° N, 99°–102° E)",4500,NA,NA,4500,ME,"Ecological restoration  Landscape heterogeneity Biodiversity Sanjiangyuan Alpine grassland Unmanned Aerial Vehicle",Birds,NO,1,2,"Bird surveys Habitat mapping (UAV)","Fieldwork
+Remote sensing","Species ID
+Species abundance Species richness Species abundance x species diversity Endemic diversity
+Endemic abundance
+Avian diversity with horizontal habitat heterogeneity
+Impacts of human land use on avian assemblage and landscape heterogeneity ","Distribution
+Diversity
+Habitat structure",
+61,2017,Rewilding the Atlantic Forest: Restoring the fauna and ecological interactions of a protected area,"Fernandez, F.A., Rheingantz, M.L., Genes, L., Kenup, C.F., Galliez, M., Cezimbra, T., Cid, B., Macedo, L., Araujo, B.B., Moraes, B.S. Monjeau, A.",Brazil,"Tijuca National Park, Rio de Janeiro",3953,NA,3953,3953,ME,"Alouatta Captive stock Dasyprocta Ecological interactions Refaunation","Mammals
+Plants",NO,1,7,"Mark-resighting Radio tracking
+Field observation","Wildlife tracking
+Fieldwork","Ecological interactions
+Species interactions",Ecosystem,"Species reintroductions 2010 to 2017 (red-humped agouti and the brown howler monkey) “Ecological interaction richness increased after the release of agoutis in the park”"
+65,2016,Rewilding with large herbivores: Direct effects and edge effects of grazing refuges on plant and invertebrate communities,"Van Klink, R., Ruifrok, J.L. Smit, C.",Netherlands,"Oostvaardersplassen (N52260 , E5210)",100,5600,100,100,M,"Exclosures Null-model Beta-diversity Turnover Diversity Species richness","Plants
+Invertebrates",YES,1,3,"Grazing exclosure experiment
+Plant community surveys Pitfall traps
+Earthworm counts","Fieldwork
+Experiment","Species ID
+Species abundance
+Species richness Community composition","Distribution
+Diversity","Area = 100 ha actual survey area. 5600 ha nature reserve Duration = 3 years of plant community data, 1 year (final) of pitfall traps, earthworm counts, and wider plant surveys) Control explicit = 10 exclosures with adjacent controls."
+67,2016,Rural abandoned landscapes and bird assemblages: winners and losers in the rewilding of a marginal mountain area (NW Spain),"Regos, A., Domínguez, J., Gil-Tena, A., Brotons, L., Ninyerola, M. Pons, X.,",Spain,Baixa Limia-Serra do Xure ́s Natural Park,29345,NA,NA,29345,ME,"Land abandonment Wildfire Species of European Conservation Concern Landsat imagery Co- inertia analysis Land-use policy",Birds,NO,1,10,"Bird 5-min point counts Remote sensing","Fieldwork
+Remote sensing","Land cover change
+Change in occurrence rate of bird species
+Changes in environmental composition","Habitat structure
+Distribution",
+73,2023,Evaluating the performance of conservation translocations in large carnivores across the world,"Thomas, S., van der Merwe, V., Carvalho, W.D., Adania, C.H., Gomerčić, T., Krofel, M., Thompson, J., McBride Jr, R.T., Hernandez-Blanco, J., Yachmennikova, A. Macdonald, D.W.","USA Mexico Brasil
+Paraguay
+Iran
+Russia
+India
+Tajikistan Indonesia
+Slovenia
+Croatia
+Spain
+Portugal
+South Africa
+Namibia
+Rwanda
+Zimbabwe Zambia Botswana Malawi Mozambique",NA,NA,NA,NA,NA,E,"Conservation translocation Ecological restoration Reintroduction Large carnivores Rewilding Reinforcement",Mammals,NO,33,1,Literature review,Review,"Number of translocated individuals
+% individual success rate (survival > six months)
+% captive-born, period of captivity, and wild-born
+% hard- and soft-release Effects of fence / origin / release / sex / age ",Species,"Meta-analysis of 33 translocation projects of large carnivores Studies between 2007 and 2021, but this study done in 1 year"
+75,2021,"Restoring a butterfly hot spot by large ungulates refaunation: the case of the Milovice military training range, Czech Republic","Konvička, M., Ričl, D., Vodičková, V., Beneš, J. Jirků, M.",Czech Republic,"Milovice military training range (50.26 N, 14.89E)",231,NA,231,231,M,"Bison bonasus
+Bos taurus
+Climate change
+Equus caballus
+Lepidoptera conservation
+Life history traits
+Temperate grassland
+Trophic rewilding",Invertebrates,YES,1,25,"Point surveys
+Comparison with earlier data",Fieldwork,"Species ID Species richness Species abundance Species traits","Distribution
+Diversity","Thing of interest = butterflies Control = refaunated and ‘neglected’ plots in study Duration of study = studies from 3 time points. ‘Early 1990s’, 2009, and 2016-19. The reference for the 1990s is dated 1994, so have used that as first point. = 25 years span Area = 106 ha in S site, 125 ha N site"
+79,2023,Reintroducing bison to Banff National Park - an ecocultural case study,"Heuer, K., Farr, J., Littlebear, L. Hebblewhite, M.",Canada,Banff National Park,120000,NA,120000,120000,ME,"Rewilding Reintroduction Ecocultural Indigenous people Threatened species Plains Bison Bison bison bison","Mammals Social",NO,1,11,"Consultation
+Feedback solicitation Remote camera observation GPS collars
+Cultural monitoring survey","Remote sensing
+Wildlife tracking
+Consultation","Bison movement
+Population numbers
+Herd demographics","Distribution
+Behaviour","Duration = stakeholder feedback 2012-15, then phases of introduction until 2023 = 11"
+83,2023,Intensive agriculture as the main limiting factor of the otter’s return in southwest France,"Couturier, T., Steinmetz, J., Du Rau, P.D., Marc, D., Trichet, E., Gomes, R. Besnard, A.",France,Midi-Pyr´en´ees region in southwest France,4534800,NA,NA,4534800,M,"Agriculture  Contagion process Detection probability Multi-season occupancy models Rewilding Eurasian otter",Mammals,NO,1,10,Site surveys,Fieldwork,"Probability of initial occupancy Probability of colonisation",Species,"Surveys years apart - survey 1 = 2003-2005, survey 2 = 2011-2012"
+84,2023,Mini Safe Havens for population recovery and reintroductions 'beyond-the-fence',"Smith, K.J., Evans, M.J., Gordon, I.J., Pierson, J.C., Stratford, S. Manning, A.D.",Australia,"Mulligans Flat Woodland Sanctuary, Australian Capital Territory (ACT, -35.1642, 149.1668)",485,NA,485,485,ME,"Predator-proof fence Refuge Soft-release Spillover effect Translocation tactics Trophic rewilding",Mammals,NO,1,2,"Experimental trials
+Live relay camera Recapture
+Remote camera
+Remote microchip scanners
+Radio tracking","Fieldwork
+Experiment
+Wildlife tracking","Population survival probability Body mass
+Frequency of detection",Species,"Mini safe havens (MSH) for managing reintroduced prey species Landscape type = woody grassland"
+89,2021,"Ten years on: have large carnivore reintroductions to the Eastern Cape Province, South Africa, worked?","Banasiak, N.M., Hayward, M.W. Kerley, G.I",South Africa,Eastern Cape Province,528600,NA,NA,528600,E,"Rewilding Translocation Lion Leopard Hyaena",Mammals,NO,16,1,Interviews,Consultation,"Number of reintroduction projects
+Reintroduction objectives Population size
+Population density","Other
+Distribution","Interviews with managers of reserves with reintroductions found in a previous literature review  Duration - 1 period of interviews, but based on a 10 year gap since last evaluation"
+105,2020,Spatial patterns of the first groups of collared peccaries (Pecari tajacu) reintroduced in South America,"Hurtado, C.M., Beck, H., Thebpanya, P. Altrichter, M.",Argentina,"Ibera National Park (28° 32′ S, 57° 10′ W)",12400,1390000,12400,12400,ME,"Argentina Habitat selection Home range Post-release Reintroduction biology Site-fidelity",Mammals,NO,1,2,Radio tracking,Wildlife tracking,"Site fidelity Home range
+Habitat classification","Behaviour
+Distribution
+Habitat structure",
+107,2017,Using ecosystem engineers as tools in habitat restoration and rewilding: beaver and wetlands,"Law, A., Gaywood, M.J., Jones, K.C., Ramsay, P. Willby, N.J.",UK,"Blairgowrie in eastern Scotland, (56°37′32.81″N, 3°13′36.72″W)",525,NA,525,525,ME,"Castor fiber Agriculture Species richness Diversity Grazing Exclosure","Plants
+Mammals",YES,1,12,"Exclosure experiment
+Vegetation surveys","Experiment
+Fieldwork","Species richness
+Species accumulation
+Community composition Mean coverage by species Soil moisture
+Light
+Nitrogen","Diversity
+Distribution
+Abiotic",Control = comparison of sites to ungrazed exclosures to allow “the wider influence of waterlogging to be separated from disturbance through tree felling and herbivory.”
+116,2022,"Introduction of giant tortoises as a replacement ecosystem engineer to facilitate restoration of Santa Fe Island, Galapagos","Tapia, W., Goldspiel, H.B. Gibbs, J.P.",Ecuador,Santa Fe Island - Galapagos Islands,2413,NA,2413,2413,E,"Chelonoidis Conolophus pallidus Cactus Opuntia echios Galapagos giant tortoise Land iguana Replacement species Rewilding Santa Fe Island","Reptiles
+Plants",YES,1,5,"Mark recapture
+Transect surveys",Fieldwork,"Population size
+Weight
+Apparent survival
+Growth rate Dispersal distance
+Number of cacti Changes in vegetation parameters:
+Iguana and tortoise feces
+Woody plant regeneration
+Grass cover
+Herbaceous plant cover
+Opuntia fruit, cladode, and regeneration","Species
+Distribution
+Habitat structure",Control = vegetation plots fenced and unfenced to admit different species
+121,2022,Active versus passive restoration: Forests in the southern Carpathian Mountains as a case study,"Hartup, J., Ockendon, N. Pettorelli, N.",Romania,Fǎgǎraș Mountains,26693,NA,26693,26693,ME,"Restoration
+Rewilding
+Satellite remote sensing
+Land cover
+Environmental monitoring
+Forests",Plants,YES,1,12,"Satellite imagery
+NVDI",Remote sensing,"Habitat classification
+Forest cover",Habitat structure,"Control = Comparison of active and passive restoration
+Duration = 250m resolution satellite imagery captured every 16-days between 2009 (the year FCC was founded) and 2021"
+141,2017,Refaunation and the reinstatement of the seed-dispersal function in Gorongosa National Park,"Correia, M., Timóteo, S., Rodríguez‐Echeverría, S., Mazars‐Simon, A. Heleno, R.",Mozambique,Gorongosa National Park,6200,406700,6200,6200,E,"Africa
+Defaunation
+Ecological restoration
+Frugivory
+Large herbivores
+Rewilding
+Wildlife sanctuary","Mammals Plants",YES,1,1,"Transect surveys
+Scat samples
+DNA barcoding","Fieldwork
+DNA methods","Species accumulation
+Network of seed dispersal
+Animal linkage level","Diversity
+Ecosystem",Control = comparing inside and outside sanctuary
+149,2023,Recolonizing native wildlife facilitates exotic plant invasion into Singapore's rain forests,"Ho, C., Dehaudt, B., Lee, B.P., Tan, H.Y.R. Luskin, M.S.",Singapore,"1°21″07.6′′N, 103°49″11.3″E",NA,NA,NA,NA,E,"Clidemia
+Faunal reintroduction
+Human disturbances
+Miconia crenata
+Plant invasion
+Tropical rain forests
+Weed management
+Wild pig","Mammals Plants",YES,11,1,Transect surveys ,Fieldwork,"Plant count
+Plant density",Distribution,Control = pigs had not recolonized (or were absent from) 3 of the 11 fragments
+202,2022,Herbivore exclusion and active planting stimulate reed marsh development on a newly constructed archipelago,"Temmink, R.J., van den Akker, M., van Leeuwen, C.H., Thöle, Y., Olff, H., Reijers, V.C., Weideveld, S.T., Robroek, B.J., Lamers, L.P. Bakker, E.S.,",Netherlands,Lake Markermeer - coordinates 52◦35′ 30′′N 5◦22′ 43′′E,700,NA,700,700,E,"Exclosure
+Greenhouse gas fluxes
+Marker Wadden
+Phragmites australis
+Restoration
+Rewilding","Plants
+Birds
+Abiotic",YES,1,1,"Full-factorial field experiment
+Vegetation surveys
+Soil samples","Fieldwork
+Experiment","Vegetation cover
+Reed shoot number
+Maximum reed height
+CO2 flux
+CH4 flux
+Net ecosystem exchange
+Ecosystem respiration","Habitat structure
+Abiotic
+Ecosystem",Sampling units = 6 replicated blocks of 4 treatments
+209,2023,Narratives of land abandonment in a biocultural landscape of Spain,"Quintas-Soriano, C., Torralba, M., García-Martín, M. Plieninger, T.,",Spain,"Las Hurdes, located in Extremadura",NA,NA,NA,NA,E,"Agricultural abandonment
+Biocultural diversity
+Cultural heritage
+Human nature connectedness
+Cultural
+values
+Spain",Social,NO,1,1,Social survey,Consultation,"Narrative
+Socio-cultural characteristics
+Perceptions of landscape changes
+Perceived drivers of land use change
+Perceptions of nature’s contributions to people",Social,"Site = 1, quite large region with interviews across multiple sites"
+243,2024,Rewilding by large ungulates contributes to organic carbon storage in soils,"Kaštovská, E., Mastný, J. Konvička, M.",Czech Republic,"8 x locations:
+50.24N 14.88E
+50.28N 14.88E
+49.66N 13.31E
+50.34N 15.94E
+48.81N 15.99E
+48.84N 15.98E
+49.72N 13.59E
+49.90N 18.13E",572,NA,572,572,E,"Rewilding
+Large herbivores
+Ecosystem services
+Soil fertility
+Water retention capacity
+Soil C sequestration","Mammals
+Abiotic",YES,8,1,Soil samples,Fieldwork,"Soil dry weight
+Soil bulk density
+% clay
+pH
+Index WSA
+Soil water retention capacity
+Differences in soil physicochemical properties:
+Soil C stock
+Soil N stock
+Soil P stock
+Soil C/N/P ratios
+Soluble C
+Soluble N
+Soluble reactive P
+Microbial C
+Microbial N
+Microbial C/N ratio
+Net nitrification rate
+Respiration rate
+Portion of fine particles","Abiotic
+Ecosystem","Duration = grazing of sites between 2 and 6 years
+Area = ranging from ~30 to ~250 ha 
+Control = ungrazed, mostly mown, plots in close proximity"
+246,2024,Long-term vegetation trajectories to inform nature recovery strategies: The Greater Côa Valley as a case study,"Elphick, A., Ockendon, N., Aliácar, S., Crowson, M. Pettorelli, N.",Portugal,Greater Coa Valley,318000,NA,318000,318000,ME,"Restoration
+Rewilding
+Satellite remote sensing
+Land cover
+Environmental monitoring
+Baselines",Plants,NO,4,16,"Satellite imagery
+Land cover classification",Remote sensing,"Land cover classifications
+% area coverage
+NVDI",Habitat structure,"Duration = comparison of satellite data from 2006 with 2022
+Sites = slightly complicated - very large region (GCV), with 3 smaller sites nested within, owned by Rewilding Portugal
+Control = not explicit. Different land treatments within the area but not in design of study"
+251,2015,Rewilding: Pitfalls and opportunities for moths and butterflies,"Merckx, T. (CHAPTER IN BOOK)",Portugal,Peneda mountain range NW-Portugal,NA,NA,NA,NA,E,"Farmland abandonment
+Habitat resource heterogeneity
+Spatial scale
+Controlled Rewilding
+Lepidoptera",Invertebrates,YES,1,2,Moth light traps,Fieldwork,Species richness,Diversity,"Book chapter, rather than traditional journal article - case study: 6.7 A Case Study: Farmland Abandonment in Peneda
+and Its Effects on Macro-moths
+Control = comparison of different land-use cover types"
+276,2024,Evaluating the success of vegetation restoration in rewilded salt marshes,"Carneiro, I., Carrasco, A.R., Didderen, K. Sousa, A.I.",Portugal,"Ria Formosa coastal lagoon, south of Portugal",NA,78000,NA,78000,E,"3D artificial structures
+Pioneer plants
+Recovery
+Sediment grain-size
+Topography
+Vegetation transplant",Plants,YES,1,1,"Transplant experiment
+Surveys
+Photography
+Sediment cores","Experiment
+Fieldwork","Vegetation biomass
+Site phytosociology
+Adjustment after transplantation
+Shoot height
+Shoot density
+Plant coverage
+Sediment properties:
+Grain size
+Dry bulk density
+Organic matter
+Carbon content
+Sediment deposition patterns","Habitat structure
+Abiotic","Control = “transplants were conducted in three plots, with one designated for each plant species and the third one serving as the control.”"
+288,2020,"Assessing the effects of habitat management practices on vocalizing animals using passive acoustic monitoring.
+Specifically: Effects of Different Habitats Created by Rewilding on Bat and Bird Activity and Diversity","Beason, R.",UK,"Knepp Castle Estate	 West Sussex
+(51.0° N 0.4° W).",470,1400,470,470,E,NA,"Mammals
+Birds",NO,1,1,"Passive acoustic monitoring
+Site characteristic surveys","Wildlife tracking
+Fieldwork","Bat activity
+Bat and bird activity by habitat type
+Bat passes per night
+Shannon diversity
+Distance to water
+Acoustic complexity index
+Bioacoustic index","Behaviour
+Diversity
+Habitat structure",Size = southerm block (470 ha) where all surveys were performed
+A,2021,"The response of plants, carabid beetles and birds to 30 years ofnative reforestation in the Scottish Highlands","Warner, E., Hector, A., Brown, N., Green, R., Savory, A., Gilbert, D., McDonnell, A. Lewis, O.T.,",UK,"Scotland
+Glen Affric (57°12′50″N, 05°13′48″W to 57°17′15″N, 004°56′04″W)
+Glen Moriston (57°12′28″N,004°50′54″W to 57°13′23″N, 004°43′32″W",1205.65,NA,1205.65,1205.65,E,"Biodiversity
+Birds
+Carabid beetles
+Forest expansion
+Native reforestation
+Plants
+ScottishHighlands","Plants
+Invertebrates
+Birds",YES,14,1,"Plant surveys
+Carabid beetle surveys
+Bird surveys",Fieldwork,"Plant, carabid, and bird:
+Species richness
+Specialist richness
+Species assemblage comparisons",Diversity,"Sites = 14 fenced and reforested sites in study
+Control: “Biodiversity in ungrazed, reforested sites was compared to unforested controls and mature native forest, both grazed and ungrazed”
+Found by looking at thesis found in initial search"
+B,2022,Does restoring native forest restore ecosystem functioning? Evidence from a large‐scale reforestation project in the Scottish Highlands,"Warner, E., Lewis, O.T., Brown, N., Green, R., McDonnell, A., Gilbert, D. Hector, A.",UK,"Scotland
+Glen Affric (57°12′50″N, 05°13′48″W to 57°17′15″N, 004°56′04″W)
+Glen Moriston (57°12′28″N,004°50′54″W to 57°13′23″N, 004°43′32″W",1205.65,NA,1205.65,1205.65,E,"Ecosystem functioning
+Forest expansion
+Forest restoration
+Reforestation
+Soil carbon","Abiotic
+Plants",YES,14,1,"Plant surveys
+Soil samples
+Tea bag decomposition experiment
+Soil faunal feeding","Fieldwork
+Experiment","Aboveground tree carbon
+Topsoil carbon
+Topsoil nitrogen
+Decomposition
+Soil invertebrate feeding
+Seedling regeneration
+Ground layer height
+Moss depth","Habitat structure
+Abiotic
+Ecosystem","Control = comparison of grazed and ungrazed
+Found by looking at thesis found in initial search"
+C,2024,Monitoring the rewilding of the Brazilian Atlantic Forest on tree and mammal diversity: From a biodiversity hotspot to a biodiversity hopespot,"Merelli, P., Clemente, L.O. Gatti, R.C.",Brazil,Iracambi Research and Conservation Center,500,NA,500,500,E,"Atlantic forest 
+Rewilding
+Biodiversity hotspot Reforestation
+Biodiversity recovery
+Ecosystem restoration","Plants
+Mammals",YES,1,1,"Forest plots
+Camera traps","Fieldwork
+Wildlife tracking","Rank-abundance
+Tree species richness
+Tree biomass
+Mammal species richness
+Shannon index 
+Simpson index
+Absolute effective diversity","Diversity
+Habitat structure","Control = “a naturally disturbed montane forest in the area was included as a control category for the disturbance analysis” “compared the efficiency of three restoration practices: reforestation with exotic species (Eucalyptus), reforestation with a mix of native pioneer and secondary species, and natural regeneration.”"
+D,2024,"Time to independence and predator-prey relationships of wild-born, captive-raised cheetahs released into private reserves in Namibia","Marker, L., Schmidt‐Küntzel, A., Walker, E.H., Nghikembua, M. Cristescu, B.",Namibia,"Erindi Private Game Reserve
+NamibRand Nature Reserve
+Bellebenno Game Camp",255050,NA,NA,255050,E,"Acinonyx jubatus
+Carnivore translocation
+Post-release monitoring
+Prey preference
+Trophic rewilding",Mammals,NO,3,1,"GPS wildlife tracking
+Field observations","Fieldwork
+Wildlife tracking","Release success
+Time to independence
+Prey composition
+Prey preference
+Hunting success
+Habitat use",Species,"Sites = 3 private reserves for releases
+area = 3 reserves (36.5km2 + 790km2 + 1724km2) = 255050ha
+"
+E,2024,Rewilding landscapes with apex predators: cheetah (Acinonyx jubatus) movements reveal the importance of environmental and individual contexts,"Dimbleby, J., Cristescu, B., Bandyopadhyay, K., Rooney, N.J. Marker, L.",Namibia,"Central Plateau of Namibia (Lat -20.4839°, Long 17.0317°;",1370,57700,1370,1370,M,"Behavioural adjustments
+Bush encroachment
+Ecosystem restoration
+Large carnivore
+Movement ecology
+Restoration ecology
+Translocation
+Wildlife rehabilitation",Mammals,NO,1,11,"GPS radio collars
+Driven transects","Fieldwork
+Wildlife tracking","Step length
+Movement metrics
+Prey density
+Daily distance travelled","Species
+Distribution",
+F,2024,Restoring ecological function: Interactions between vertebrates and latrines in a reintroduced population of Rhinoceros unicornis,"Awasthi, B., McConkey, K.R., Aluthwattha, S.T., Chen, C. Chen, J., ",Nepal,"Chitwan National Park (CNP) (84.323170◦E, 27.531686◦N) and Shuklaphanta National Park (ShNP) (80.254478◦E, 28.855631◦N) in Nepal.",NA,125763,NA,NA,ME,"Coprophagy
+Ecological function
+Greater one-horned rhino
+Latrines
+Reintroduction
+Rewilding",Mammals,NO,2,2,"Camera traps
+Latrine sampling","Fieldwork
+Wildlife tracking","Latrine quality
+Composition of latrine visitors
+Frequency of latrine visitors
+Nutrient concentration
+Species accumulation
+Latrine size
+Behaviour rate","Abiotic
+Diversity
+Behaviour
+Other","Area = 952.63km2 + 305km2 =127563ha
+"
+G,2024,Born to be wild: Captive-born and wild Iberian lynx (Lynx pardinus) reveal space-use similarities when reintroduced for species conservation concerns,"Cisneros-Araujo, P., Garrote, G., Corradini, A., Farhadinia, M.S., Robira, B., López, G., Fernández, L., López-Parra, M., García-Tardío, M., Arenas-Rojas, R. del Rey, T.","Spain
+Portugal",NA,NA,NA,NA,NA,ME,"Reintroductions
+Rewilding
+Space-use patterns
+Dispersal
+Iberian lynx
+Movement ecology",Mammals,NO,9,15,GPS telemetry,Wildlife tracking,"Speed
+Distance
+Home range size
+Rate of establishment
+Residence area size","Species
+Distribution
+Behaviour",
+H,2024,Population status and genetic assessment of mugger (Crocodylus palustris) in a tropical regulated river system in North India,"Sharma, S.P., Ghazi, M.G., Katdare, S., Badola, R. Hussain, S.A.",India,"National Chambal
+Sanctuary",400000,NA,NA,400000,ME,"Conservation translocation
+Adaptive management
+Ecological generalist
+Population trend
+Occupancy
+Species recovery",Reptiles,NO,5,17,"Species counts (fieldwork)
+Biological sampling for genetic assessment","Fieldwork
+DNA methods","Population trends
+Single‑season site occupancy
+Genetic diversity","Abundance
+Behaviour
+Species",
+I,2022,The impacts of reintroducing cheetahs on the vigilance behaviour of two naive prey species,"Welch, R.J., Schmitt, M.H., Mendela, T., Bernard, R.T. Parker, D.M.",South Africa,"Mountain Zebra
+National Park in the Eastern Cape province of
+South Africa (hereafter MZNP, 32°18’S, 25° 24’E",28400,NA,NA,28400,ME,"Cheetah
+Prey body-size
+Prey grouping behaviour
+Steenbok
+Springbok
+Vigilance",Mammals,NO,1,2,Behaviour observation,Fieldwork,% time vigilant,Behaviour,
+J,2024,Topographic heterogeneity influences diversity and abundance of Orthoptera in a rewilding scheme,"Gardiner, T. Casey, D",UK,"Arger Fen nature reserve (eastern England, 51°59'14.9856""N, 0°49'9.3504""E",110,NA,110,110,M,"Acrididae
+Bush-cricket
+Grasshopper
+Landscape
+Tettigoniidae
+Topography
+Wilding",Invertebrates,NO,1,1,"Transect surveys
+Acoustic detection
+Environmental surveys","Fieldwork
+Wildlife tracking","Species ID
+Species richness
+Species abundance
+Species diversity Grazing and habitat variables (anthills, grass height, lagomorph droppings, lagomorph excavations)","Diversity
+Distribution
+Habitat structure",
+K,2019,Bare soil cover and arbuscular mycorrhizal community in the first montane forest restoration in Central Argentina.,"Becerra, A.G., Diván, A. and Renison, D.",Argentina,"Los Gigantes massif is located in the north of the high mountainsof Central Argentina (31∘24′46′′S, 64∘48′22′′W, 2,300 m a.s.l.",22,NA,22,22,E,"Arbuscular mycorrhizal community
+Bare soil cover
+Mountain forest
+Restoration",Fungi,NO,1,13,"Tree planting
+Bare soil estimation
+Soil samples",Fieldwork,"% Bare soil
+% AMF root colonisation
+Spore morphospecies
+Spore density
+Total C
+Organic matter
+Total N
+C:N
+Soil texture
+pH
+Electrical conductivity
+Extractable P
+Nitrates
+Gravel	","Abiotic
+Diversity
+Habitat structure",
+L,2021,Avifaunal responses after two decades of Polylepis forest restoration in central Argentina.,"Barri, F.R., Toledo, M., Herzog, P., Bellis, L.M. and Renison, D.",Argentina,"The site under restora-tion, located in Los Gigantes massif, encompasses a 22-ha area…",22,22,22,22,ME,"Highest woodland
+Ecological restoration
+Bird community recovery",Birds,YES,1,5,"Landscape classification
+Satellite images
+Bird surveys","Remote sensing
+Fieldwork","Site physiognomy
+% Bare soil
+Species ID
+Bird abundance
+Species diversity","Abiotic
+Diversity
+Distribution","22 ha rewilded area, plus a 30-ha control
+2 x monitoring, 5 years apart?"
+M,2022,"Recommendations for the rehabilitation and release of wild-born, captive-raised cheetahs: the importance of pre-and post-release management for optimizing survival.","Walker, E.H., Verschueren, S., Schmidt-Küntzel, A. and Marker, L.",Namibia,"(a) Greater Waterberg Landscape in north-central Namibia, including the Bellebenno release training camp; (b) Erindi Private Game Reserve in north-central Namibia; and (c) NamibRand Nature Reserve in south-central Namibia",525300,NA,525300,525300,ME,"Captive-raised
+Cheetah
+Large carnivore
+Post-release monitoring
+Rehabilitation
+Reintroduction
+Release
+Translocation",Mammals,NO,3,14,"Direct observation
+GPS collars
+Carcass assessment
+","Fieldwork
+Remote sensing","Time to independence
+Survival
+Reproductive success",Species,
